@@ -1,3 +1,3 @@
-CentOS 7 Docker images
-======================
+CentOS 7 Docker image
+=====================
 
